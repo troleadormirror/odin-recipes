@@ -1,0 +1,1 @@
+This project is based in strenght my html's skills at the same time that expand my knowledge in technologies such as git or github.
