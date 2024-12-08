@@ -2,9 +2,11 @@ h1{
     color: blue;
     font-size: 60px;
     font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 li{
     color: pink;
+    font-family: 'Courier New', Courier, monospace;
 }
 *{
     background-color: grey;
