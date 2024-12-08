@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+    font-size: 60px;
+    font-weight: 900;
+}
+li{
+    color: pink;
+}
+*{
+    background-color: grey;
+}
+h1, li{
+    text-align: center;
+}
