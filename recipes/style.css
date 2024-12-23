@@ -1,5 +1,6 @@
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 
 }
 .cannellonis{
@@ -13,4 +14,7 @@
 }
 .shit{
     color: yellow;
+}
+.caca{
+    margin-left: auto;
 }
