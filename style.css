@@ -1,15 +1,30 @@
 h1{
-    color: blue;
-    font-size: 60px;
+    color: blueviolet;
+    font-size: 80px;
     font-weight: 900;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 100px;
 }
-li{
+.recipes{
     color: pink;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    text-align: center;
+    
+}
+.can{
+    display: block;
+    margin-bottom: 40px;
+}
+.ra{
+    display: block;
+    margin-bottom: 40px;
+}
+.tor{
+    display: block;
 }
 *{
-    background-color: grey;
+    background-color: yellowgreen;
 }
 h1, li{
     text-align: center;
